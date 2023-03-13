@@ -6,7 +6,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif; 
-    border: 1px solid red;
+    border: 1px solid red; 
 } 
 
 // mixins 
@@ -1692,13 +1692,7 @@ footer{
                 }
                 .footer-box {
                     width: 19%;
-                    .footer-sub-list {
-                        .footer-list {
-                            .footer-link {
-                                // font-size: 1.2rem;                                
-                            }
-                        }
-                    }
+                   
                 }
             }
         }
